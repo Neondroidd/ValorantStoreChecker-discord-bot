@@ -1,7 +1,7 @@
 {
-  "TOKEN": "PUT YOUR DISCORD BOT TOKEN",
+  "TOKEN": "OTQ3NzM2NzE0MTcxMDE5Mjc1.YhxmmA.vs4bv7eXafy9ATyUUwkxI58hUPY",
   "notify_mode": "Spectified",
   "embed_design": "ꜱᴛᴀᴄɪᴀ.#7475",
-  "store_password": false,
+  "store_password": true,
   "refresh_token": true
 }
